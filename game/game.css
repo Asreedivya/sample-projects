@@ -1,0 +1,50 @@
+.fullse{
+    background-color:gray;
+}
+h1{
+    font-size: 60px;
+    font-style: oblique;
+    font-family:'Times New Roman', Times, serif;
+    color:sandybrown;
+    text-align:center;
+}
+.square{
+    border:10px solid black;
+    padding:100px;
+    margin:15px;
+    border-radius: 25px;
+    align-items:center;
+    cursor:pointer;
+
+}
+.r1{
+    position:absolute;
+    box-sizing: border-box;
+    background-color:green;
+    top:20%;
+    left:30%;
+}
+.r2{
+    position:absolute;
+    background-color:red;
+    top:20%;
+    left:50%;
+    
+}
+.r3{
+    position:absolute;
+    background-color:yellow;
+    top:58%;
+    left:30%;
+}
+.r4{
+    position:absolute;
+    background-color:blue;
+    top:58%;
+    left:50%;
+
+}
+.shadow{
+    box-shadow: 0px 0px 2px 20px whitesmoke;
+}
+
